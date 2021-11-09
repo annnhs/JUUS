@@ -14,7 +14,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.lx.juus.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-
+    //깃헙 테스트
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
 
